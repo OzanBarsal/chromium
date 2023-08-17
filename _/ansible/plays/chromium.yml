@@ -251,6 +251,8 @@
           disable_histogram_support = false
           enable_basic_print_dialog = false
           enable_basic_printing = true
+          enable_pdf = true
+          enable_tagged_pdf = true
           enable_keystone_registration_framework = false
           enable_linux_installer = false
           enable_media_remoting = false
